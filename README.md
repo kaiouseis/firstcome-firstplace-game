@@ -11,7 +11,8 @@ Then, type `java GameStarter`
 
 ## IP Address and Ports
 Because the IP Address changes every time I start/stop the instance, this will constantly change. What is listed below is the most recent IP Address:
-**IP Address:** 54.173.88.33 (Last Updated: May 30, 2021)
+<br>
+**IP Address:** 54.173.88.33 (Last Updated: May 30, 2021)<br>
 **Port Number:** 49501
 
 ## Controls
