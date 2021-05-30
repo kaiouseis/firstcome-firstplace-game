@@ -16,9 +16,9 @@ Because the IP Address changes every time I start/stop the instance, this will c
 **Port Number:** 49501
 
 ## Controls
-`W` to jump
-`A` to move left
-`D` to move right
+`W` to jump<br>
+`A` to move left<br>
+`D` to move right<br>
 Close the game to exit
 
 ## Mechanics
