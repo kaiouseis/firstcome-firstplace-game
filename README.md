@@ -4,9 +4,9 @@
 Just download the files. That's it. Save it somewhere you can easily access.
 
 ## How to run
-Open the folder in the terminal/cmd:
+Open the folder in the Terminal/CMD:
 - Either manually change directories to the folder path in terminal/cmd
-- Or open the folder in the terminal/cmd
+- Or open the folder in the Terminal/CMD<br>
 Then, type `java GameStarter`
 
 ## IP Address and Ports
