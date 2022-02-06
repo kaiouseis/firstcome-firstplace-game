@@ -1,4 +1,5 @@
 # First Come, First Place!
+Note: it is now impossible to play the game via the internet.
 
 ## How to install
 Just download the files. That's it. Save it somewhere you can easily access.
@@ -10,10 +11,10 @@ Open the folder in the Terminal/CMD:
 Then, type `java GameStarter`
 
 ## IP Address and Ports
-Because the IP Address changes every time I start/stop the instance, this will constantly change. What is listed below is the most recent IP Address:
+<s>Because the IP Address changes every time I start/stop the instance, this will constantly change. What is listed below is the most recent IP Address:
 <br>
 **IP Address:** 54.196.42.30 (Last Updated: May 30, 2021)<br>
-**Port Number:** 49501
+**Port Number:** 49501</s>
 
 ## Controls
 `W` to jump<br>
